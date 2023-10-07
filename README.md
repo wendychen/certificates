@@ -1,10 +1,10 @@
 # certificates
 
 ## freeCodeCamp
-
-
-## CodingGame
+ Responsive Web Design
  
+## CodingGame
+ JavaScript
 
 ## Mimo
 
