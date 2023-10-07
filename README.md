@@ -1,14 +1,25 @@
 # certificates
 
-## HTML - Mimo
+## freeCodeCamp
+
+
+## CodingGame
+ 
+
+## Mimo
+
+### HTML 
  CERTIFICATE OF ACHIEVEMENT_mimo_HTML.pdf
-## JavaScript - Mimo
+### JavaScript
  CERTIFICATE OF ACHIEVEMENT_mimo_JavaScript.pdf
-## Python - Mimo
+### Python
  CERTIFICATE OF ACHIEVEMENT_mimo_Python.pdf
-## SQL - Mimo
+### SQL
  CERTIFICATE OF ACHIEVEMENT_mimo_SQL.pdf
-## Web Development - Mimo
+### Web Development
  CERTIFICATE OF ACHIEVEMENT_mimo_Web Development.pdf
-## Certificate of Completion - Becoming a Pilot
+
+## Pilot Institute
+
+### Certificate of Completion - Becoming a Pilot
  certificate-of-completion-for-free-course-ultimate-guide-to-becoming-a-pilot.pdf
