@@ -1,8 +1,8 @@
 # Certificates
 
 ## freeCodeCamp
-1. Responsive Web Design
-2. JavaScript Algorithms and Data Structures (2023.12)
+1. Responsive Web Design (2023.08.17)
+2. JavaScript Algorithms and Data Structures (2023.12.14)
  
 ## CodingGame
  JavaScript
