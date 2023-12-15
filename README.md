@@ -1,4 +1,4 @@
-# certificates
+# Certificates
 
 ## freeCodeCamp
 1. Responsive Web Design
