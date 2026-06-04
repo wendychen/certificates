@@ -22,8 +22,11 @@
 
 ## LinkedIn Certificates
  CertificateOfCompletion_Bill George on SelfAwareness Authenticity and Leadership.pdf
+ 
  CertificateOfCompletion_Communicating Across Cultures.pdf
+ 
  CertificateOfCompletion_Digital Sustainability How to Reduce Your Digital Footprint.pdf
+ 
  CertificateOfCompletion_Do the Work Overcome Resistance Blinkist Summary.pdf
  CertificateOfCompletion_Emotional Intelligence Nano Tips with Selena Rezvani.pdf
  CertificateOfCompletion_Five Learning Lessons from Cognitive Science.pdf
